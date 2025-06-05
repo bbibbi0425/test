@@ -3,31 +3,34 @@
   <img src="./assets/logo.png" alt="프로젝트 로고" width="600"/>
 </p>
 
-<br>
 ---
 
 ## 👩‍💻 프로젝트 참여자
 
-<table>
-  <tr align="center">
-    <th>여지훈</th>
-    <th>강지민</th>
-    <th>서하진</th>
-    <th>이기석</th>
+<div align="center">
+
+<table style="border: none;">
+  <tr>
+    <td align="center"><strong>여지훈</strong></td>
+    <td align="center"><strong>강지민</strong></td>
+    <td align="center"><strong>서하진</strong></td>
+    <td align="center"><strong>이기석</strong></td>
   </tr>
-  <tr align="center">
-    <td><img src="./assets/jihun.JPG" width="100"/></td>
-    <td><img src="./assets/jimin.JPG" width="100"/></td>
-    <td><img src="./assets/hajin.JPG" width="105"/></td>
-    <td><img src="./assets/gisuk.JPG" width="110"/></td>
+  <tr>
+    <td align="center"><img src="./assets/jihun.JPG" width="107"/></td>
+    <td align="center"><img src="./assets/jimin.JPG" width="105"/></td>
+    <td align="center"><img src="./assets/hajin.JPG" width="110"/></td>
+    <td align="center"><img src="./assets/gisuk.JPG" width="118"/></td>
   </tr>
-  <tr align="center">
-    <td>🌈 PM <br>🛠️ 백엔드</td>
-    <td>🌳 AI<br/>🎨 디자인</td>
-    <td>⚙️ 커널</td>
-    <td>📱 프론트엔드</td>
+  <tr>
+    <td align="center">🌈 <strong>PM</strong><br/>🛠️ <strong>백엔드</strong></td>
+    <td align="center">🌳 <strong>AI</strong><br/>🎨 <strong>디자인</strong></td>
+    <td align="center">⚙️ <strong>커널</strong></td>
+    <td align="center">📱 <strong>프론트엔드</strong></td>
   </tr>
 </table>
+
+</div>
 
 
 ---
