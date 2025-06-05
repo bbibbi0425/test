@@ -73,8 +73,8 @@ PROJECT/
 │   ├── engines/
 │   ├── kernel_db/
 │   │   ├── data_black_list/
-│   │   └── data_etc/
-│   ├── data_white_list/
+│   │   ├── data_etc/
+│   │   └── data_white_list/
 │   ├── plugins/
 │   │   ├── ai_modules/
 │   │   │   ├── ai_model/
@@ -98,11 +98,11 @@ PROJECT/
 │           ├── public/
 │           └── src/
 │               ├── assets/
-│               │   └── fonts/
+│               │   ├── fonts/
+│               │   └── img/
 │               ├── components/
 │               ├── pages/
 │               └── styles/
-
 </pre>
 
 > 각 폴더의 기능을 간단히 한마디로 설명하세요.
