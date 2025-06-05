@@ -26,52 +26,50 @@
 
 <pre>
 PROJECT/
-├── .github/                              # GitHub 워크플로우(CI/CD) 설정
-├── scripts/                              # 배포 및 실행 스크립트 모음
-├── source/                               # 크롬 확장 프로그램 소스
+├── .github/                                  # GitHub 워크플로우(CI/CD) 설정
+├── scripts/                                  # 배포 및 실행 스크립트 모음
+├── source/                                   # 크롬 확장 프로그램 소스
 │   └── chrome_extension/
 │       └── gui/
-│           ├── dist/                     # 빌드 결과물
-│           │   └── assets/               # 배포용 이미지 등 정적 파일
-│           └── src/                      # 확장 프로그램 원본 코드
-│               └── assets/               # 확장용 이미지 등 리소스
-├── kernel/                               # 피싱 탐지 핵심 로직 (커널)
-│   ├── engines/                          # 탐지 엔진 베이스 및 모듈들
-│   ├── kernel_db/                        # 탐지에 사용되는 각종 DB
-│   │   ├── data_black_list/              # 블랙리스트 (브랜드, 링크, 도메인)
-│   │   ├── data_etc/                     # 기타 TLD, 국가 코드 등
-│   │   └── data_white_list/              # 화이트리스트 도메인
-│   ├── plugins/                          # 탐지 모듈 플러그인 모음
-│   │   ├── ai_modules/                   # AI 관련 모듈
-│   │   │   ├── ai_model/                 # 학습된 모델(pkl 파일 등)
-│   │   │   └── ai_source/                # 특징 추출 등 AI 추론 코드
-│   │   ├── html_modules/                 # HTML 기반 탐지 모듈
-│   │   ├── js_modules/                   # JS 기반 탐지 모듈
-│   │   └── url_modules/                  # URL 기반 탐지 모듈
-├── server/                               # 백엔드 서버 (FastAPI 기반)
-│   ├── app/                              # 서버 애플리케이션 모듈
-│   │   ├── schemas/                      # 요청/응답 스키마 정의
-│   │   └── utils/                        # 공통 유틸리티 함수들
-│   ├── server_config/                    # 서버 설정 파일
-│   └── sessions/                         # 사용자 세션 관리 모듈
-├── tests/                                # 모듈별 테스트 코드
+│           ├── dist/                         # 빌드 결과물
+│           │   └── assets/                   # 배포용 이미지 등 정적 파일
+│           └── src/                          # 확장 프로그램 원본 코드
+│               └── assets/                   # 확장용 이미지 등 리소스
+├── kernel/                                   # 피싱 탐지 핵심 로직 (커널)
+│   ├── engines/                              # 탐지 엔진 베이스 및 모듈들
+│   ├── kernel_db/                            # 탐지에 사용되는 각종 DB
+│   │   ├── data_black_list/                  # 블랙리스트 (브랜드, 링크, 도메인)
+│   │   ├── data_etc/                         # 기타 TLD, 국가 코드 등
+│   │   └── data_white_list/                  # 화이트리스트 도메인
+│   ├── plugins/                              # 탐지 모듈 플러그인 모음
+│   │   ├── ai_modules/                       # AI 관련 모듈
+│   │   │   ├── ai_model/                     # 학습된 모델(pkl 파일 등)
+│   │   │   └── ai_source/                    # 특징 추출 등 AI 추론 코드
+│   │   ├── html_modules/                     # HTML 기반 탐지 모듈
+│   │   ├── js_modules/                       # JS 기반 탐지 모듈
+│   │   └── url_modules/                      # URL 기반 탐지 모듈
+├── server/                                   # 백엔드 서버 (FastAPI 기반)
+│   ├── app/                                  # 서버 애플리케이션 모듈
+│   │   ├── schemas/                          # 요청/응답 스키마 정의
+│   │   └── utils/                            # 공통 유틸리티 함수들
+│   ├── server_config/                        # 서버 설정 파일
+│   └── sessions/                             # 사용자 세션 관리 모듈
+├── tests/                                    # 모듈별 테스트 코드
 │   └── module_test/
-│       ├── module_test_data/             # 테스트용 피싱 데이터
-│       └── module_test_results/          # 테스트 결과 스크립트
-├── web/                                  # 사용자 웹 인터페이스 (React)
+│       ├── module_test_data/                 # 테스트용 피싱 데이터
+│       └── module_test_results/              # 테스트 결과 스크립트
+├── web/                                      # 사용자 웹 인터페이스 (React)
 │   └── gui/
 │       └── React/
-│           ├── public/                   # 정적 파일 (index.html 등)
-│           └── src/                      # React 앱 소스
-│               ├── assets/               # 이미지 및 폰트 리소스
-│               │   ├── fonts/            # Poppins 등 폰트 파일
-│               │   └── img/              # 로고, 아이콘 등 이미지
-│               ├── components/           # 공통 UI 컴포넌트
-│               ├── pages/                # 페이지 단위 컴포넌트
-│               └── styles/               # CSS 스타일 파일
+│           ├── public/                       # 정적 파일 (index.html 등)
+│           └── src/                          # React 앱 소스
+│               ├── assets/                   # 이미지 및 폰트 리소스
+│               │   ├── fonts/                # Poppins 등 폰트 파일
+│               │   └── img/                  # 로고, 아이콘 등 이미지
+│               ├── components/               # 공통 UI 컴포넌트
+│               ├── pages/                    # 페이지 단위 컴포넌트
+│               └── styles/                   # CSS 스타일 파일
 </pre>
-
-> 각 폴더의 기능을 간단히 한마디로 설명하세요.
 
 ---
 
