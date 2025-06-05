@@ -13,10 +13,10 @@
     <th>이기석</th>
   </tr>
   <tr align="center">
-    <td><img src="./assets/jimin.png" width="100"/></td>
-    <td><img src="./assets/hajin.png" width="100"/></td>
-    <td><img src="./assets/jihoon.png" width="100"/></td>
-    <td><img src="./assets/gisuk.png" width="100"/></td>
+    <td><img src="./assets/jimin.JPG" width="100"/></td>
+    <td><img src="./assets/hajin.JPG" width="105"/></td>
+    <td><img src="./assets/jihoon.JPG" width="100"/></td>
+    <td><img src="./assets/gisuk.JPG" width="110"/></td>
   </tr>
   <tr align="center">
     <td>🌳 AI<br/>🎨 디자인</td>
