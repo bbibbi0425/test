@@ -77,16 +77,19 @@ PROJECT/
 
 ## 🚀 실행 방법
 
-### 1. 레포지토리 클론
+### 🔗 서비스 링크
 
----
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20Service-WaveTo-blue?style=for-the-badge&logo=vercel" alt="웹 서비스 링크"/>
+  </a>
+  &nbsp;
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Chrome%20Extension-다운로드-29ABE2?style=for-the-badge&logo=googlechrome" alt="크롬 확장 프로그램 링크"/>
+  </a>
+</p>
 
-## 🔗 관련 링크
-
-### 🎥 시연 영상
-### 📄 발표 자료 (PDF/Notion 등)
-### 🌐 배포된 서비스 링크
-### 🧠 AI 모델 설명 페이지
+### 🌊 사용 흐름
 
 ---
 
