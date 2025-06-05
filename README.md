@@ -48,8 +48,8 @@
 
 ## 🛠 기술 스택
 <p align="center">
-  <img src="./assets/stack_front.png"width="600"/>
-  <img src="./assets/stack_back.png"width="600"/>
+  <img src="./assets/stack_front.png"width="500"/>
+  <img src="./assets/stack_back.png"width="500"/>
 </p>
 
 ---
