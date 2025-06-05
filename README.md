@@ -3,26 +3,29 @@
   <img src="./assets/logo.png" alt="프로젝트 로고" width="600"/>
 </p>
 
+<br>
+---
+
 ## 👩‍💻 프로젝트 참여자
 
 <table>
   <tr align="center">
+    <th>여지훈</th>
     <th>강지민</th>
     <th>서하진</th>
-    <th>여지훈</th>
     <th>이기석</th>
   </tr>
   <tr align="center">
+    <td><img src="./assets/jihun.JPG" width="100"/></td>
     <td><img src="./assets/jimin.JPG" width="100"/></td>
     <td><img src="./assets/hajin.JPG" width="105"/></td>
-    <td><img src="./assets/jihoon.JPG" width="100"/></td>
     <td><img src="./assets/gisuk.JPG" width="110"/></td>
   </tr>
   <tr align="center">
+    <td>⚙️ 커널</td>
     <td>🌳 AI<br/>🎨 디자인</td>
-    <td>🛠️ 백엔드<br/>📁 데이터베이스</td>
-    <td>⚙️ 커널<br/>📁 데이터베이스</td>
-    <td>📱 프론트엔드<br/>📁 데이터베이스</td>
+    <td>🌈 PM <br>🛠️ 백엔드</td>
+    <td>📱 프론트엔드</td>
   </tr>
 </table>
 
