@@ -1,6 +1,9 @@
-![로고](https://github.com/bbibbi0425/test/assets/logo.png)
 
-> **참여자**: 
+<p align="center">
+  <img src="./assets/logo.png" alt="프로젝트 로고" width="600"/>
+</p>
+
+*참여자**: 
 
 ---
 
