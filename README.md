@@ -22,9 +22,9 @@
     <td><img src="./assets/gisuk.JPG" width="110"/></td>
   </tr>
   <tr align="center">
-    <td>⚙️ 커널</td>
-    <td>🌳 AI<br/>🎨 디자인</td>
     <td>🌈 PM <br>🛠️ 백엔드</td>
+    <td>🌳 AI<br/>🎨 디자인</td>
+    <td>⚙️ 커널</td>
     <td>📱 프론트엔드</td>
   </tr>
 </table>
