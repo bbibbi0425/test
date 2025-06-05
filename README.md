@@ -1,7 +1,8 @@
-
 <p align="center">
   <img src="./assets/logo.png" alt="프로젝트 로고" width="600"/>
 </p>
+
+<h1 align="center">피싱 웹 사이트 탐지 시스템</h1>
 
 ---
 
