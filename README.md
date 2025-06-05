@@ -2,9 +2,7 @@
   <img src="./assets/logo.png" alt="프로젝트 로고" width="600"/>
 </p>
 
-<p align="center" style="font-size: 36px; font-weight: bold; margin-top: -10px; margin-bottom: 0;">
-  피싱 웹 사이트 탐지 시스템
-</p>
+# <div align="center">**피싱 웹 사이트 탐지 시스템**</div>
 
 ---
 
