@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <h1 style="margin: 0; font-size: 28px;">피싱 웹 사이트 탐지 시스템|  <img src="./assets/logo.png" alt="로고" style="height: 30px;" /></h1>
+  <h1 style="margin: 0; font-size: 28px;">피싱 웹 사이트 탐지 시스템 |   <img src="./assets/logo.png" alt="로고" style="height: 30px;" /></h1>
 </div>
 <br>
 
