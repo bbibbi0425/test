@@ -4,6 +4,10 @@
 
 # <div align="center">**피싱 웹 사이트 탐지 시스템**</div>
 
+<p align="center">
+  <img src="./assets/main.png" alt="프로젝트 메인"/>
+</p>
+
 ---
 
 ## ✅ 주요 기능
@@ -26,19 +30,19 @@
 
 <pre>
 PROJECT/
-├── .github/                                  # GitHub 워크플로우(CI/CD) 설정
+├── .github/                                  
 ├── scripts/                                  # 배포 및 실행 스크립트 모음
-├── source/                                   # 크롬 확장 프로그램 소스
-│   └── chrome_extension/
-│       └── gui/
+├── source/                                   
+│   └── chrome_extension/                     # Chrome Extension
+│       └── gui/                              # Front-End
 │           ├── dist/                         # 빌드 결과물
-│           │   └── assets/                   # 배포용 이미지 등 정적 파일
+│           │   └── assets/                   # 배포용 이미지 등 리소스
 │           └── src/                          # 확장 프로그램 원본 코드
 │               └── assets/                   # 확장용 이미지 등 리소스
-├── kernel/                                   # 피싱 탐지 핵심 로직 (커널)
+├── kernel/                                   # Kernel
 │   ├── engines/                              # 탐지 엔진 베이스 및 모듈들
 │   ├── kernel_db/                            # 탐지에 사용되는 각종 DB
-│   │   ├── data_black_list/                  # 블랙리스트 (브랜드, 링크, 도메인)
+│   │   ├── data_black_list/                  # 블랙리스트 (브랜드, 도메인, 링크)
 │   │   ├── data_etc/                         # 기타 TLD, 국가 코드 등
 │   │   └── data_white_list/                  # 화이트리스트 도메인
 │   ├── plugins/                              # 탐지 모듈 플러그인 모음
@@ -48,7 +52,7 @@ PROJECT/
 │   │   ├── html_modules/                     # HTML 기반 탐지 모듈
 │   │   ├── js_modules/                       # JS 기반 탐지 모듈
 │   │   └── url_modules/                      # URL 기반 탐지 모듈
-├── server/                                   # 백엔드 서버 (FastAPI 기반)
+├── server/                                   # Server - Back-End : FAST API
 │   ├── app/                                  # 서버 애플리케이션 모듈
 │   │   ├── schemas/                          # 요청/응답 스키마 정의
 │   │   └── utils/                            # 공통 유틸리티 함수들
