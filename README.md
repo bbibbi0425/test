@@ -50,6 +50,13 @@
 ## 🦾 AI
 
 
+사용 데이터셋: https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset?resource=download
+
+<img src="./assets/features.png" alt="특징" style="width: 600px;" />
+
+<img src="./assets/ai.png" alt="AI" style="width: 400px;" />
+
+
 ---
 
 ## 🛠 기술 스택
