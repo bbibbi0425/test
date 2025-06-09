@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="./assets/logo.png" alt="프로젝트 로고" width="600"/>
-</p>
-
-# <div align="center">**피싱 웹 사이트 탐지 시스템**</div>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <h1 style="margin: 0;"><strong>피싱 웹 사이트 탐지 시스템</strong></h1>
+  <img src="./assets/logo.png" alt="프로젝트 로고" width="200"/>
+</div>
+<br>
 
 <p align="center">
   <img src="./assets/main.png" alt="프로젝트 메인"/>
