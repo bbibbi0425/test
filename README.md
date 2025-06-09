@@ -28,9 +28,11 @@
 
 - [🌊 소개](#-소개)
 - [✅ 주요 기능](#-주요-기능)
-- [🦾 AI](#-AI)
+- [🦾 AI](#-ai)
 - [🛠 기술 스택](#-기술-스택)
-- [🛠 System Context Diagram](#-System Context Diagram)
+- [🛠 System Context Diagram](#-system-context-diagram)
+- [🛠 Component Diagram](#-component-diagram)
+- [🛠 Deployment Diagram](#-deployment-diagram)
 - [📁 프로젝트 구조](#-프로젝트-구조)
 - [🚀 실행 방법](#-실행-방법)
   - [🔗 서비스 링크](#-서비스-링크)
@@ -38,11 +40,12 @@
 - [👩‍💻 프로젝트 참여자](#-프로젝트-참여자)
 
 
+
 ---
 
 ## ✅ 주요 기능
 
-**1. 정밀 분석 웹 서비스**
+### **1. 정밀 분석 웹 서비스**
 
  이 서비스는 사용자가 의심되는 URL을 직접 입력하면 백엔드에서 URL을 받아 분석을 수행하고, 그 결과를 웹 인터페이스를 통해 시각적으로 제공하는 구조이다. 분석은 커널을 통해서 다중 모듈 기반으로 이루어지며, 다음과 같은 핵심 기능을 포함한다.
 
@@ -55,7 +58,7 @@
 
  이러한 기능들을 종합하여 사용자에게 단순히 ‘위험’ 여부 뿐만 아니라 왜 위험한지를 정확히 설명하고, 다음 행동까지 연결할 수 있도록 동작하는 서비스를 구현했다.
 
- **2. 실시간 탐지 Chrome Extension**
+ ### **2. 실시간 탐지 Chrome Extension**
 
  웹 서비스가 사용자의 의도적 입력을 기반으로 한다면, 크롬 익스텐션 서비스는 사용자의 일상적인 웹 서핑 중 자연스럽게 피싱을 방지할 수 있는 실시간 서비스이다. 핵심 특징은 다음과 같다.
 
@@ -88,21 +91,19 @@
 
 ---
 
-## 🛠 System Context Diagram
+## 🖥️ 시스템 구조 및 설계
+
+### 📊 System Context Diagram
 <p align="center">
   <img src="./assets/system.png"width="500"/>
 </p>
 
----
-
-## 🛠 Component Diagram
+### 🧩 Component Diagram
 <p align="center">
-  <img src="./assets/component.png"width="500"/>
+  <img src="./assets/component.png"width="600"/>
 </p>
 
----
-
-## 🛠 Deployment Diagram
+### 🔧 Deployment Diagram
 <p align="center">
   <img src="./assets/deployment.png"width="500"/>
 </p>
