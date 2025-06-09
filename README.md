@@ -27,22 +27,22 @@
 ## 🍀 목차
 
 - [🌊 소개](#-소개)
-- [✅ 주요 기능](#-주요-기능)
-- [🦾 AI](#-ai)
+- [🌈 주요 기능](#-주요-기능)
+- [🌳 AI](#-ai)
 - [🛠 기술 스택](#-기술-스택)
 - [🖥️ 시스템 구조 및 설계](#-시스템-구조-및-설계)
-  - [📊 System Context Diagram](#-system-context-diagram)
-  - [🧩 Component Diagram](#-component-diagram)
-  - [🔧 Deployment Diagram](#-deployment-diagram)
+  - [System Context Diagram](#-system-context-diagram)
+  - [Component Diagram](#-component-diagram)
+  - [Deployment Diagram](#-deployment-diagram)
 - [📁 프로젝트 구조](#-프로젝트-구조)
 - [🚀 실행 방법](#-실행-방법)
   - [🔗 서비스 링크](#-서비스-링크)
-  - [🌈 사용 흐름](#-사용-흐름)
+  - [⭐️ 사용 흐름](#-사용-흐름)
 - [👩‍💻 프로젝트 참여자](#-프로젝트-참여자)
 
 ---
 
-## ✅ 주요 기능
+## 🌈 주요 기능
 
 ### **1. 정밀 분석 웹 서비스**
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🦾 AI
+## 🌳 AI
 
 
 사용 데이터셋: https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset?resource=download
@@ -92,17 +92,17 @@
 
 ## 🖥️ 시스템 구조 및 설계
 
-### 📊 System Context Diagram
+### System Context Diagram
 <p align="center">
   <img src="./assets/system.png"width="500"/>
 </p>
 
-### 🧩 Component Diagram
+### Component Diagram
 <p align="center">
   <img src="./assets/component.png"width="600"/>
 </p>
 
-### 🔧 Deployment Diagram
+### Deployment Diagram
 <p align="center">
   <img src="./assets/deployment.png"width="500"/>
 </p>
@@ -178,14 +178,13 @@ PROJECT/
   </a>
 </p>
 
-###  사용 흐름
+### ⭐️ 사용 흐름
 
 ---
 
 ## 👩‍💻 프로젝트 참여자
 
 <div align="center">
-🌈
 <table style="border: none;">
   <tr>
     <td align="center"><strong>여지훈</strong></td>
