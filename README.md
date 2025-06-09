@@ -118,11 +118,12 @@ PROJECT/
 ├── scripts/                                  # 배포 및 실행 스크립트 모음
 ├── source/                                   
 │   └── chrome_extension/                     # Chrome Extension
-│       └── gui/                              # Front-End
+│       └── gui/                              
 │           ├── dist/                         # 빌드 결과물
 │           │   └── assets/                   # 배포용 이미지 등 리소스
 │           └── src/                          # 확장 프로그램 원본 코드
 │               └── assets/                   # 확장용 이미지 등 리소스
+|
 ├── kernel/                                   # Kernel
 │   ├── engines/                              # 탐지 엔진 베이스 및 모듈들
 │   ├── kernel_db/                            # 탐지에 사용되는 각종 DB
@@ -136,17 +137,20 @@ PROJECT/
 │   │   ├── html_modules/                     # HTML 기반 탐지 모듈
 │   │   ├── js_modules/                       # JS 기반 탐지 모듈
 │   │   └── url_modules/                      # URL 기반 탐지 모듈
-├── server/                                   # Server - Back-End : FAST API
+|
+├── server/                                   # Server
 │   ├── app/                                  # 서버 애플리케이션 모듈
 │   │   ├── schemas/                          # 요청/응답 스키마 정의
 │   │   └── utils/                            # 공통 유틸리티 함수들
 │   ├── server_config/                        # 서버 설정 파일
 │   └── sessions/                             # 사용자 세션 관리 모듈
+|
 ├── tests/                                    # 모듈별 테스트 코드
 │   └── module_test/
-│       ├── module_test_data/                 # 테스트용 피싱 데이터
+│       ├── module_test_data/                 # 테스트용 데이터
 │       └── module_test_results/              # 테스트 결과 스크립트
-├── web/                                      # 사용자 웹 인터페이스 (React)
+|
+├── web/                                      # Web
 │   └── gui/
 │       └── React/
 │           ├── public/                       # 정적 파일 (index.html 등)
@@ -167,11 +171,11 @@ PROJECT/
 
 <p align="center">
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20Service-WaveTo-blue?style=for-the-badge&logo=vercel" alt="웹 서비스 링크"/>
+    <img src="https://img.shields.io/badge/Web%20Service-wavetowww-blue?style=for-the-badge&logo=vercel" alt="웹 서비스 링크"/>
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Chrome%20Extension-다운로드-29ABE2?style=for-the-badge&logo=googlechrome" alt="크롬 확장 프로그램 링크"/>
+    <img src="https://img.shields.io/badge/Chrome%20Extension-Download-29ABE2?style=for-the-badge&logo=googlechrome" alt="크롬 확장 프로그램 링크"/>
   </a>
 </p>
 
