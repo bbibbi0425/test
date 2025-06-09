@@ -11,9 +11,7 @@
 <strong>AI 분석</strong>과 <strong>룰 기반 코드 분석</strong>을 결합하여 <strong>왜 위험한지에 대한 근거</strong>까지 함께 제공합니다.
 
 <strong>HTML, JavaScript, URL 패턴 등 피싱 사이트의 공통적인 특징</strong>을 사전에 분석하고 이를 <strong>모듈화</strong>하여
-<strong>탐지의 정밀도</strong>와 <strong>설명력</strong>을 높였습니다.
-
-<strong>웹 기반 서비스</strong>와 <strong>크롬 확장 프로그램</strong> 두 가지 형태로 제공되며,
+<strong>탐지의 정밀도</strong>와 <strong>설명력</strong>을 높였습니다. <strong>웹 기반 서비스</strong>와 <strong>크롬 확장 프로그램</strong> 두 가지 형태로 제공되며,
 사용자는 <strong>직접 URL을 입력</strong>하거나 <strong>웹서핑 중 마우스오버만으로 실시간 탐지</strong>를 받을 수 있습니다.
 
 <strong>누구나 이해할 수 있는 시각적 결과</strong>와 함께,
