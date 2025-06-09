@@ -30,16 +30,15 @@
 - [✅ 주요 기능](#-주요-기능)
 - [🦾 AI](#-ai)
 - [🛠 기술 스택](#-기술-스택)
-- [🛠 System Context Diagram](#-system-context-diagram)
-- [🛠 Component Diagram](#-component-diagram)
-- [🛠 Deployment Diagram](#-deployment-diagram)
+- [🖥️ 시스템 구조 및 설계](#-시스템-구조-및-설계)
+  - [📊 System Context Diagram](#-system-context-diagram)
+  - [🧩 Component Diagram](#-component-diagram)
+  - [🔧 Deployment Diagram](#-deployment-diagram)
 - [📁 프로젝트 구조](#-프로젝트-구조)
 - [🚀 실행 방법](#-실행-방법)
   - [🔗 서비스 링크](#-서비스-링크)
-  - [🌊 사용 흐름](#-사용-흐름)
+  - [🌈 사용 흐름](#-사용-흐름)
 - [👩‍💻 프로젝트 참여자](#-프로젝트-참여자)
-
-
 
 ---
 
@@ -179,14 +178,14 @@ PROJECT/
   </a>
 </p>
 
-### 🌊 사용 흐름
+###  사용 흐름
 
 ---
 
 ## 👩‍💻 프로젝트 참여자
 
 <div align="center">
-
+🌈
 <table style="border: none;">
   <tr>
     <td align="center"><strong>여지훈</strong></td>
