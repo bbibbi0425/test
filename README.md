@@ -67,6 +67,27 @@
 
 ---
 
+## 🛠 System Context Diagram
+<p align="center">
+  <img src="./assets/system.png"width="500"/>
+</p>
+
+---
+
+## 🛠 Component Diagram
+<p align="center">
+  <img src="./assets/component.png"width="500"/>
+</p>
+
+---
+
+## 🛠 Deployment Diagram
+<p align="center">
+  <img src="./assets/deployment.png"width="500"/>
+</p>
+
+---
+
 ## 📁 프로젝트 구조
 
 <pre>
